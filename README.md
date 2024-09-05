@@ -1,4 +1,4 @@
-👋 Hi, I'm Haritha!
+## 👋 Hi, I'm Haritha! ##
 ## 🚀 About Me##
 
 I'm a passionate MERN Stack Developer with a growing interest in blockchain technologies. Currently, I’m pursuing a Blockchain Architect course at KBA to broaden my expertise in decentralized applications and smart contracts. I enjoy working on full-stack web applications, particularly social platforms and real-time chat applications.
