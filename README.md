@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm Haritha! ##
+
 ## 🚀 About Me##
 
 I'm a passionate MERN Stack Developer with a growing interest in blockchain technologies. Currently, I’m pursuing a Blockchain Architect course at KBA to broaden my expertise in decentralized applications and smart contracts. I enjoy working on full-stack web applications, particularly social platforms and real-time chat applications.
@@ -11,10 +12,6 @@ Blockchian : Smart Contract(Solidity), Ethereum<br>
 Other Tools: Git,Github,Docker<br>
 Development Environment :Visual Studio Code<br>
 
- ## 📚 Interests ##
-
-Outside of coding, I love to dive into a good book or tend to my garden 🌱. I find that reading expands my horizons, while gardening keeps me grounded.
- 
 
  ## 🌱 Learning Journey ##
 
